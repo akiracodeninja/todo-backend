@@ -10,13 +10,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@prisma/client": "^6.0.1",
     "express": "^4.21.2",
-    "mysql2": "^3.11.5",
-    "prisma": "^6.0.1"
+    "mysql2": "^3.11.5"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
     "@types/node": "^22.10.2",
+    "prisma": "^6.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.2"
   }
